@@ -58,11 +58,11 @@ figure {
         width: 100%; } }
 
 ::-webkit-selection {
-  color: ##F32316;
+  color: #FFF;
   background: #2c98f0; }
 
 ::-moz-selection {
-  color: #F32316;
+  color: #FFF;
   background: #2c98f0; }
 
 ::selection {
